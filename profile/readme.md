@@ -6,11 +6,11 @@
 
 ### 👋 Introduction
 
-We are an open-source rental platform.
+We are an open-source rental management platform.
 
 ### 🎯 Objective
 
-To build an open-source rental platform that is secure, ad-free, and compliant with the rules and regulations of each country.
+To build an open-source rental management platform that is ad-free and compliant with the rules and regulations of each country.
 
 ### 🌈 Contribution guidelines
 
