@@ -33,6 +33,6 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Rentyd logo in Orange |   Rentyd logo in White
+  Rentyd logo in Orange (`#FF671F`) |   Rentyd logo in White (`#FEFEFE`)
   :-------------------------: |  :-------------------------:
-  ![Rentyd Logo in Orange](https://github.com/rentyd/.github/assets/68323012/6e9f90c5-9152-4991-87d6-f72449fed5a8) |  ![Rentyd Logo in White](https://github.com/rentyd/.github/assets/68323012/6e9f90c5-9152-4991-87d6-f72449fed5a8)
+  ![Rentyd Logo in Orange](https://github.com/rentyd/.github/assets/68323012/4bbc3597-5cec-450f-a6b6-bd7fbdffc5ce) |  ![Rentyd Logo in White](https://github.com/rentyd/.github/assets/68323012/22c91625-1c20-4fe0-a780-895e5d8fb7a9)
